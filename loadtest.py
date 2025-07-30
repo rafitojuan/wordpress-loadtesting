@@ -165,7 +165,7 @@ class LoadTester:
         return sorted_data[index]
 
 def main():
-    TARGET_URL = "https://antartiket.com"
+    # TARGET_URL = "your_url" 
     NUM_USERS = 1000
     DURATION = 60
     REQUESTS_PER_USER = 5

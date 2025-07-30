@@ -6,5 +6,5 @@ export let options = {
 };
 
 export default function () {
-  http.get("https://antartiket.com");
+  // http.get("your_url");
 }
