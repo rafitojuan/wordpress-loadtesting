@@ -45,7 +45,7 @@ python loadtest.py
 node loadtest.js
 ```
 
-## ⚙️ Configuration
+## Configuration
 
 The tool provides interactive prompts for configuration:
 
